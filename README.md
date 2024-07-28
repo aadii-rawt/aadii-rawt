@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/aadii_rawt" target="blank"><img src="https://img.shields.io/twitter/follow/aadii_rawt?logo=twitter&style=for-the-badge" alt="aadii_rawt" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://aditya-rawat-portfolio.netlify.app/](https://aditya-rawat-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://aditya-rawat-portfolio.netlify.app/](https://portfolio-ar4.netlify.app/)
 
 - 💬 Ask me about **react, tailwind , redux**
 
