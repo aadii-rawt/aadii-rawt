@@ -18,6 +18,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=aadii-rawt&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadii-rawt&theme=black-ice&hide_border=true" alt="aadii-rawt" />
+</p>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
   <source
@@ -33,6 +38,8 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+
 
 
 
