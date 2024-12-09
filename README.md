@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Storeshoppy<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Mern Stack.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Redux, Firebase, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
+🔭 **I’m currently working on:**  <br>Payment Gateway<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Mern Stack.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Redux, Firebase, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
 
 
 ## 🌐 Socials:
