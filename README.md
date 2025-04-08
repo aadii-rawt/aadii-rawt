@@ -1,7 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Payment Gateway<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Mern Stack.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Redux, Firebase, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
-
-
+🔭 **I’m currently working on:**  <br>Payment Gateway<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>💬 **Ask me about:**  <br>JavaScript, React, Redux, Firebase, and any general software development questions.<br><br>⚡ **Fun fact:**  
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/aadii_rawt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadii_rawt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-rawat-96701524b) 
 
