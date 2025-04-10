@@ -1,9 +1,8 @@
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadii-rawt&theme=black-ice&hide_border=true" alt="aadii-rawt" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aadii-rawt&theme=dark)](https://git.io/streak-stats)
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aadii-rawt)](https://git.io/streak-stats)
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
