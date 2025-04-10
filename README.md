@@ -1,6 +1,8 @@
-<p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aadii-rawt&theme=dark)](https://git.io/streak-stats)
-</p>
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadii-rawt&theme=dark)](https://git.io/streak-stats)
+
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <picture>
