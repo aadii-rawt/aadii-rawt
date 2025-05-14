@@ -20,7 +20,7 @@
   <a href="mailto:rawatadii060@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="[https://instagram.com/your-username](https://www.instagram.com/aadii_rawt/)" target="_blank">
+  <a href="https://www.instagram.com/aadii_rawt/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
