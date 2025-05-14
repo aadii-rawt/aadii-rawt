@@ -3,7 +3,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadii-rawt&theme=dark)](https://git.io/streak-stats)
 <br>
 <br>
-  <img src="https://i.pinimg.com/originals/84/66/77/846677be580a25dba404be59bda8cf60.gif" alt="GIF" />
+  <img src="https://i.pinimg.com/originals/68/b2/c7/68b2c790e0f92b9f62fb870aa0ac7d56.gif" alt="GIF" />
 
 </div
 
